@@ -1,0 +1,13 @@
+argument1:
+  flag: "-f"
+  name: "--file"
+  help: "help text here"
+  default: "test.file"
+  required: false
+
+argument2:
+  flag: "-f2"
+  name: "--file2"
+  help: "help text here 2"
+  default: "test.file"
+  required: false

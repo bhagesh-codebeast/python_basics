@@ -1,0 +1,11 @@
+wait_time = 1
+attempts = 5
+extensions = [".txt",".csv",".tsv"]
+filelist = ["data/test.tsv","data/test.csv","data/test.txt","data/test.fasta"]
+
+# argument = {
+# 	"flag":"-f",
+# 	"name":"--file",
+# 	"help":"help text here",
+# 	"required":"false"
+# 	}
