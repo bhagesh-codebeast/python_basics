@@ -21,7 +21,7 @@ if __name__ == "__main__":
 	waittime = 1
 	attempts = 5
 	extensions = [".txt",".csv",".tsv"]
-	filelist = ["data/test.tsv","data/test.csv","data/test.txt","data/test.fasta"]
+	filelist = ["data/test.tsv","data/test.csv","data/test.txt"]
 
 	start = time.perf_counter()
 	asyncio.run(main(filelist, waittime, attempts, extensions))
