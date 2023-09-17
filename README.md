@@ -1,23 +1,18 @@
 # Python Concepts
 
-1. concept_data
+## 1. concept_data
+- Python_DataOperations.py
+- Python_DataTypes.py
 
-Python_DataOperations.py
-Python_DataTypes.py
+## 2. concept_loops&conditionals
+- Python_Loops&Conditionals.py
 
-2. concept_loops&conditionals
+## 3. concept_class
+- PythonClass.py
 
-Python_Loops&Conditionals.py
+## 4. concept_argparse
+- PythonArgparse.py
+- PythonArgparse.yaml
 
-3. concept_class
-
-PythonClass.py
-
-4. concept_argparse
-
-PythonArgparse.py
-PythonArgparse.yaml
-
-5. concept_asyncio
-
-PythonAsyncIO.py
+## 5. concept_asyncio
+- PythonAsyncIO.py
